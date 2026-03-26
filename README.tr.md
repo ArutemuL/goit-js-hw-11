@@ -2,7 +2,7 @@
 
 Bu proje Vite kullanılarak oluşturulmuştur. Ek özelliklerin tanınması ve özelleştirilmesi için [belgelere bakın](https://vitejs.dev/).
 
-## Şablon kullanarak bir depo oluşturma
+## Şablon kullanarak bir depo oluşturma 
 
 Projeniz için bir depo oluşturmak üzere bu GoIT deposunu şablon olarak kullanın. Bunu yapmak için, `«Use this template»` düğmesine tıklayın ve resimde gösterildiği gibi `«Create a new repository»` seçeneğini seçin.
 
